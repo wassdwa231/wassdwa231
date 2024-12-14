@@ -1,6 +1,6 @@
 - 👋 Hi, I’m !Tom
 - 👀 I’m dsicord bot dev
-- 🌱 I’m currently learning python and Ai
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on amazing bots 
 - 📫 How to reach me 
 - 😄 Pronouns: ...
