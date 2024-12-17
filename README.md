@@ -2,7 +2,7 @@
 - 👀 I’m dsicord bot dev
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on amazing bots 
-- 📫 How to reach me 
+- 📫 How to reach me my discord account named !Tom
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
